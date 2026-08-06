@@ -122,11 +122,6 @@ Update the following before running:
 mvn clean package
 cp target/*.war $CATALINA_HOME/webapps/
 ```
-
-## License
-
-`TODO`: Add a license (e.g. MIT) if you intend to open-source this project.
-
 ## Acknowledgements
 
 - [iText](https://itextpdf.com/) for PDF generation
