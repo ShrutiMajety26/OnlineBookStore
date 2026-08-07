@@ -1,0 +1,99 @@
+
+body {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: #36648B;
+		
+	}
+
+#wrap-border {
+	margin: auto;
+	height: 100%;
+	width: 1040px;	
+	border-left:solid 3px #666;
+	border-right:solid 3px #666;	
+	border-bottom:solid 3px #666;
+	}
+
+#wrap {
+	width: 1024px;
+	height: 100%;
+	background: #fff;
+	border-left:solid 8px #fff;
+	border-right:solid 8px #fff;	
+	}
+	
+#header {
+	width: 1024px;
+	height: 145px;
+	text-align: left; 
+	}	
+		
+#form-table {	
+	background-color: #fff;
+	padding:50px 50px 0px 50px ;
+	font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    font-size: 15px;
+    line-height: 22px;
+	}	
+	
+.form {
+    border: 1px solid #aaa;
+    background: #eee;
+	width:250px;
+	padding: 4px 8px;
+	color: #333;	
+	border-radius:4px;
+	}
+	
+
+
+.button {
+    border: none;
+    background: #84b45d;
+    padding: 8px 16px;
+	color: #fff;
+	font-weight: bold;	
+	border-radius:8px;
+	cursor: pointer;
+	}
+	
+.button:hover {
+    background: #6f974e;
+	}
+
+
+.title-head {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;	
+	color: #fff;
+	 font-size: 40px; 
+	  line-height: 18px; 
+	  font-weight:bold; 
+	  padding-top: 50px;
+	  padding-left: 25px;
+	text-transform: uppercase;
+	text-decoration: none;	
+	}
+	
+#card-logo {		
+	position:absolute;
+	top: 200px;
+	left: 459px;
+	width:300px;
+	}
+	
+table#payment_info {    
+	width:100%;
+	border-spacing:2;
+	} 
+
+table#payment_info td {    
+	padding: 3px;    
+	}
+  
+  
+  
+	
